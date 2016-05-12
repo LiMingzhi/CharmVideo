@@ -1,0 +1,6 @@
+D:\CIProjectWebDemo1-master\BuildArtifacts\CIProjectWebDemo1.dll.config
+D:\CIProjectWebDemo1-master\BuildArtifacts\CIProjectWebDemo1.dll
+D:\CIProjectWebDemo1-master\BuildArtifacts\CIProjectWebDemo1.pdb
+D:\CIProjectWebDemo1-master\CIProjectWebDemo1\obj\Release\CIProjectWebDemo1.csprojResolveAssemblyReference.cache
+D:\CIProjectWebDemo1-master\CIProjectWebDemo1\obj\Release\CIProjectWebDemo1.dll
+D:\CIProjectWebDemo1-master\CIProjectWebDemo1\obj\Release\CIProjectWebDemo1.pdb
