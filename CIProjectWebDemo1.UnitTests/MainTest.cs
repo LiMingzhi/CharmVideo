@@ -22,7 +22,7 @@ namespace CIProjectWebDemo1.UnitTests
             var result = main.GetLoadDate();
             // Assert
             Assert.IsInstanceOf<string>(result);
-            Assert.AreEqual("这是一个测试页面a", result);
+            Assert.AreEqual("这是一个测试页面", result);
         }
 
     }

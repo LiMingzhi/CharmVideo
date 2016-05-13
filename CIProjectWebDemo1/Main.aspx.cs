@@ -17,7 +17,7 @@ namespace CIProjectWebDemo1
 
         public string GetLoadDate()
         {
-            return "这是一个测试页面a";
+            return "这是一个测试页面";
         }
     }
 }
