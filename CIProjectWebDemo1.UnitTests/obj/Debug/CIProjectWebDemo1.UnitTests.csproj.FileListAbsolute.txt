@@ -24,3 +24,12 @@ C:\Users\LiMingzhi\Desktop\CIProjectWebDemo1-master\CIProjectWebDemo1.UnitTests\
 C:\Users\LiMingzhi\Desktop\CIProjectWebDemo1-master\CIProjectWebDemo1.UnitTests\obj\Debug\CIProjectWebDemo1.UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\LiMingzhi\Desktop\CIProjectWebDemo1-master\CIProjectWebDemo1.UnitTests\obj\Debug\CIProjectWebDemo1.UnitTests.dll
 C:\Users\LiMingzhi\Desktop\CIProjectWebDemo1-master\CIProjectWebDemo1.UnitTests\obj\Debug\CIProjectWebDemo1.UnitTests.pdb
+E:\LiMingzhiGit\CharmVideo\CIProjectWebDemo1.UnitTests\bin\Debug\CIProjectWebDemo1.UnitTests.dll
+E:\LiMingzhiGit\CharmVideo\CIProjectWebDemo1.UnitTests\bin\Debug\CIProjectWebDemo1.UnitTests.pdb
+E:\LiMingzhiGit\CharmVideo\CIProjectWebDemo1.UnitTests\bin\Debug\CIProjectWebDemo1.dll
+E:\LiMingzhiGit\CharmVideo\CIProjectWebDemo1.UnitTests\bin\Debug\nunit.framework.dll
+E:\LiMingzhiGit\CharmVideo\CIProjectWebDemo1.UnitTests\bin\Debug\CIProjectWebDemo1.pdb
+E:\LiMingzhiGit\CharmVideo\CIProjectWebDemo1.UnitTests\bin\Debug\nunit.framework.xml
+E:\LiMingzhiGit\CharmVideo\CIProjectWebDemo1.UnitTests\obj\Debug\CIProjectWebDemo1.UnitTests.csprojResolveAssemblyReference.cache
+E:\LiMingzhiGit\CharmVideo\CIProjectWebDemo1.UnitTests\obj\Debug\CIProjectWebDemo1.UnitTests.dll
+E:\LiMingzhiGit\CharmVideo\CIProjectWebDemo1.UnitTests\obj\Debug\CIProjectWebDemo1.UnitTests.pdb
