@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\LiMingzhiGit\CharmVideo\BuildArtifacts\CIProjectWebDemo1.UnitTests.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-07-07" time="12:32:13">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8689" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="E:\LiMingzhiGit\CharmVideo" machine-name="DESKTOP-SLO3HA4" user="LiMingzhi" user-domain="DESKTOP-SLO3HA4" />
+  <culture-info current-culture="zh-CN" current-uiculture="zh-CN" />
+  <test-suite type="Assembly" name="E:\LiMingzhiGit\CharmVideo\BuildArtifacts\CIProjectWebDemo1.UnitTests.dll" executed="True" result="Success" success="True" time="0.212" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="CIProjectWebDemo1" executed="True" result="Success" success="True" time="0.204" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="UnitTests" executed="True" result="Success" success="True" time="0.204" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="MainTest" executed="True" result="Success" success="True" time="0.203" asserts="0">
+                <results>
+                  <test-case name="CIProjectWebDemo1.UnitTests.MainTest.PageTest" executed="True" result="Success" success="True" time="0.197" asserts="2" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

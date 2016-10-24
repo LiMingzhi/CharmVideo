@@ -4,3 +4,9 @@ D:\CIProjectWebDemo1-master\BuildArtifacts\CIProjectWebDemo1.pdb
 D:\CIProjectWebDemo1-master\CIProjectWebDemo1\obj\Release\CIProjectWebDemo1.csprojResolveAssemblyReference.cache
 D:\CIProjectWebDemo1-master\CIProjectWebDemo1\obj\Release\CIProjectWebDemo1.dll
 D:\CIProjectWebDemo1-master\CIProjectWebDemo1\obj\Release\CIProjectWebDemo1.pdb
+E:\LiMingzhiGit\CharmVideo\BuildArtifacts\CIProjectWebDemo1.dll.config
+E:\LiMingzhiGit\CharmVideo\BuildArtifacts\CIProjectWebDemo1.dll
+E:\LiMingzhiGit\CharmVideo\BuildArtifacts\CIProjectWebDemo1.pdb
+E:\LiMingzhiGit\CharmVideo\CIProjectWebDemo1\obj\Release\CIProjectWebDemo1.csprojResolveAssemblyReference.cache
+E:\LiMingzhiGit\CharmVideo\CIProjectWebDemo1\obj\Release\CIProjectWebDemo1.dll
+E:\LiMingzhiGit\CharmVideo\CIProjectWebDemo1\obj\Release\CIProjectWebDemo1.pdb

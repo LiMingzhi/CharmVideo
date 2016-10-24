@@ -3,3 +3,8 @@ D:\CIProjectWebDemo1-master\BuildArtifacts\CIProjectWebDemo1.UnitTests.pdb
 D:\CIProjectWebDemo1-master\CIProjectWebDemo1.UnitTests\obj\Release\CIProjectWebDemo1.UnitTests.csprojResolveAssemblyReference.cache
 D:\CIProjectWebDemo1-master\CIProjectWebDemo1.UnitTests\obj\Release\CIProjectWebDemo1.UnitTests.dll
 D:\CIProjectWebDemo1-master\CIProjectWebDemo1.UnitTests\obj\Release\CIProjectWebDemo1.UnitTests.pdb
+E:\LiMingzhiGit\CharmVideo\BuildArtifacts\CIProjectWebDemo1.UnitTests.dll
+E:\LiMingzhiGit\CharmVideo\BuildArtifacts\CIProjectWebDemo1.UnitTests.pdb
+E:\LiMingzhiGit\CharmVideo\CIProjectWebDemo1.UnitTests\obj\Release\CIProjectWebDemo1.UnitTests.csprojResolveAssemblyReference.cache
+E:\LiMingzhiGit\CharmVideo\CIProjectWebDemo1.UnitTests\obj\Release\CIProjectWebDemo1.UnitTests.dll
+E:\LiMingzhiGit\CharmVideo\CIProjectWebDemo1.UnitTests\obj\Release\CIProjectWebDemo1.UnitTests.pdb
